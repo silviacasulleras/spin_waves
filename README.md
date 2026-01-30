@@ -4,7 +4,7 @@
 
 This project implements a numerical framework to model and control spin-wave dynamics in rectangular magnonic waveguides. The code combines micromagnetic simulations with analytical postprocessing to design and generate tailored spin-wave pulses, including square and chirped (self-compressing) pulses.
 
-The workflow covers waveguide characterization, pulse propagation, and inverse design of experimentally feasible driving fields, with simulations performed using **MuMax3**.
+The workflow covers waveguide characterization, pulse propagation, and inverse design of experimentally feasible driving fields, with simulations performed using **MuMax3** (GPU-accelerated program).
 
 ---
 
